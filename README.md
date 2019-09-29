@@ -8,4 +8,4 @@ HELLO
 3. talent are just the starting 
 
 - growth mindset people love of learning and a resilience that is essential for great accomplishment
-[link](https://www.mindsetworks.com/science/)
+[link] (https://www.mindsetworks.com/science/)
