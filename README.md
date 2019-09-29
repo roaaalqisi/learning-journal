@@ -1,3 +1,5 @@
+HELLO
+Lab1
 # learning-journal
 ## growth mindset
  **you can**
