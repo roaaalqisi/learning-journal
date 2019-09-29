@@ -1,5 +1,5 @@
 HELLO
-Lab1
+ Lab1
 # learning-journal
 ## growth mindset
  **you can**
@@ -8,4 +8,4 @@ Lab1
 3. talent are just the starting 
 
 - growth mindset people love of learning and a resilience that is essential for great accomplishment
-[] (https://www.mindsetworks.com/science/)
+[link](https://www.mindsetworks.com/science/)
