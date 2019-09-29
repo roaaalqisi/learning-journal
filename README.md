@@ -1,8 +1,8 @@
 
 
- #learning-journal
- ##growth mindset
- **you can**
+ # learning-journal
+ ## growth mindset
+ ** you can **
 
 
 
