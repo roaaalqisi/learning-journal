@@ -1,8 +1,7 @@
 
-
  # learning-journal
  ## growth mindset
- ** you can **
+ **you can**
 
 
 
@@ -11,3 +10,4 @@
 3. talent are just the starting 
 
 - growth mindset people love of learning and a resilience that is essential for great accomplishment
+[
