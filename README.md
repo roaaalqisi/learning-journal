@@ -1,5 +1,5 @@
 ## Hi
-  #My name is roaa
+  # My name is roaa
 # Im biologist
 - 22 years old
 - GROWTH MINDSET
