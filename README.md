@@ -1,6 +1,6 @@
-##Hi
+## Hi
   #My name is roaa
-#Im biologist
+# Im biologist
 - 22 years old
 - GROWTH MINDSET
 - people believe that their most basic abilities can be developed through dedication
