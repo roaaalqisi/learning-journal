@@ -1,8 +1,8 @@
 
-## hi
-# my name is roaa
- im biologist
-22 years old
+## Hi
+# My name is roaa
+ Im biologist
+-22 years old
 -people believe that their most basic abilities can be developed through dedication
 -3 reminders to yourself of how to keep yourself in a growth mindset;
 1. solving problem
