@@ -10,6 +10,5 @@
 3. development of information
 
 [github](https://github.com/roaaalqisi/learning-journal)
-
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm0yxpwgmeZTPWwJAdR-j5-t6VgEd8k8TqMhuBfkLjjMRMDqp)
 [github]()
