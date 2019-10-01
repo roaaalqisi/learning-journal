@@ -1,12 +1,12 @@
-## hi
+##hi
 
-## my name is roaa
+##my name is roaa
 
 'im biologist'
 
-# 22 years old
+#22 years old
 
-_ people believe that their most basic abilities can be developed through dedication
+_people believe that their most basic abilities can be developed through dedication
 
 [github](https://github.com/roaaalqisi/learning-journal.git)
 
