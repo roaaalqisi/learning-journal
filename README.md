@@ -4,7 +4,7 @@
 - 22 years old
 - GROWTH MINDSET
 - people believe that their most basic abilities can be developed through dedication
--3 reminders to yourself of how to keep yourself in a growth mindset;
+-3reminders to yourself of how to keep yourself in a growth mindset;
 1. solving problem
 2. exercise
 3. development of information
