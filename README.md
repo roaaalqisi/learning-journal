@@ -1,7 +1,5 @@
-
 ## Hi
- 
- # My name is roaa
+  # My name is roaa
 # Im biologist
 - 22 years old
 - GROWTH MINDSET
@@ -12,7 +10,6 @@
 3. development of information
 
 [github](https://github.com/roaaalqisi/learning-journal.git)
-\
 *growth mindset people love of learning*
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm0yxpwgmeZTPWwJAdR-j5-t6VgEd8k8TqMhuBfkLjjMRMDqp)
 [github]()
