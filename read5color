@@ -1,0 +1,19 @@
+# HTML Color Names
+## Color Names Supported by All Browsers
+- All modern browsers support the following 140 color names
+- (click on a color name, or a hex value, to view the color as the background-color along with different text colors)
+- Example
+For orange color:
+
+1.Hex format: #FFA500
+
+2.RGB format: rgb(255,165,0)
+
+3.Name format: orange
+
+background-color: transparent;
+
+By default, the background color is transparent, basically meaning that there is no background color.
+Understanding color
+-A lot of people think Colors are all about harmonious relationships. But Saturation and Value are equally as important, if not more so. Without a clear understand of what saturation and value is, 
+and why it's important, no color scheme will ever help you. Saturation is about intensity, and Value about Brightness/Darkness.
