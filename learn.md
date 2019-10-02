@@ -13,3 +13,9 @@
 [https://github.com/roaaalqisi](https://github.com/roaaalqisi)
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm0yxpwgmeZTPWwJAdR-j5-t6VgEd8k8TqMhuBfkLjjMRMDqp)
 [github]()
+
+| Tables        | Are                       |
+| ------------- |:-------------------------:|
+| mindset       | [mindset](mindset.md)     |
+| juornala      | [juornala](journala.md)   |
+| markdown      | [markdown](markdown.md)  |
